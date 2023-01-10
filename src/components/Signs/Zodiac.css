@@ -1,0 +1,31 @@
+   .sign {
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    color: var(--color4);
+  }
+  
+  .sign img {
+    width: 100px;
+  }
+  
+  .sign .name {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Space and Astronomy';
+    color: black;
+  }
+
+  .sign .dates {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Space and Astronomy';
+    color: blakc;
+  }
+  
+  
