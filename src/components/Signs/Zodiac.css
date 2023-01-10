@@ -1,29 +1,6 @@
-/* .zodiacs {
+   .sign {
     width: 200px;
-    margin: 10px;
-    border-radius: 5px;
-    padding: 10px;
-    position: absolute;
-    color: var(--color1);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-  }
-  
-  .zodiacs img {
-    width: 100px;
-  }
-  
-  .zodiacs .name {
-    text-transform: uppercase;
-    font-weight: bold;
-  } */
-
-  .sign {
-    width: 200px;
-    background-color: var(--color2);
+    background-color: rgba(255, 255, 255, 0.6);
     margin: 10px;
     border-radius: 5px;
     display: flex;
@@ -41,14 +18,14 @@
     text-transform: uppercase;
     font-weight: bold;
     font-family: 'Space and Astronomy';
-    color: teal;
+    color: black;
   }
 
   .sign .dates {
     text-transform: uppercase;
     font-weight: bold;
     font-family: 'Space and Astronomy';
-    color: teal;
+    color: blakc;
   }
   
   
